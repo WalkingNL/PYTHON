@@ -21,3 +21,13 @@
 19. **is** is used to test object identity.
 20. **global** is used to define a varable inside the function to be of a global scope.
 21. **non-local** works similar to the global, but rather than global. the keyword declares a variable to point to variable of outside enclosing function, in case of nested functions.
+
+#### Namespaces and Scope in Python
+- What is **namespace**:
+- Types of **namespace**s
+  - Built-in namespace
+  - Global namespace
+  - Local namespace
+  the relations among them is like the pic blow:
+  ![](https://github.com/WalkingNL/Pics/blob/master/type_namespace.jpg)
+  
